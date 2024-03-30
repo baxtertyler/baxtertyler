@@ -1,5 +1,5 @@
 # Tyler Baxter 🏄‍♂️🏌️‍♂️
-
+**'Software Engineer'**
 I'm a computer science student attending the California Polytechnic State University at San Luis Obpispo. I hold the belief that technological development can be benefical for everyone and desire to persue a career that can have a lasting impact on the world. My abilities revolve around full-stack software engineering and interpersonal communication and relationships, skills I leverage in my professional life.
 
 
