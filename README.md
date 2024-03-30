@@ -17,12 +17,12 @@ I'm a computer science student attending the California Polytechnic State Univer
 ## Technology Toolkit
 
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Oracle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-darkblue?style=for-the-badge&logo=C&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQL-%2381e6c4?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Racket-red?style=for-the-badge&logo=racket&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Racket-purple?style=for-the-badge&logo=racket&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Node%20JS-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express%20JS-darkgreen?style=for-the-badge&logo=express&logoColor=white)
