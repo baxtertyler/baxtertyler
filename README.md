@@ -16,3 +16,12 @@ I'm a computer science student attending the California Polytechnic State Univer
 
 ## Technology Toolkit
 
+![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-lightblue?style=for-the-badge&logo=Oracle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-green?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Racket-purple?style=for-the-badge&logo=racket&logoColor=white)
+
+
+
+
