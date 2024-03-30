@@ -12,7 +12,7 @@ I'm a computer science student attending the California Polytechnic State Univer
 
 ## What I have been up to lately
 - Extensive web development for Food Drops, creating the UI/UX design and assiting on building up the backend. Implementation of encryption mechanisms, real time ordering, and secure accounts.
-- Student assitant for the Cal Poly SLO Computer Science department. Lead the cs lab periods, assist in answer questions and debugging programs, grading projects.
+- Student assitant for the Cal Poly SLO Computer Science department. Leading the cs lab periods, assisting in answer questions / debugging programs, grading student projects.
 
 ## Technology Toolkit
 
