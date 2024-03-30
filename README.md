@@ -20,6 +20,7 @@ I'm a computer science student attending the California Polytechnic State Univer
 ![Static Badge](https://img.shields.io/badge/Java-lightblue?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-green?style=for-the-badge&logo=C&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Racket-purple?style=for-the-badge&logo=racket&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Node%20JS-red?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -29,6 +30,8 @@ I'm a computer science student attending the California Polytechnic State Univer
 ![Static Badge](https://img.shields.io/badge/pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/numpy-darkorange?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikitlearn-gold?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
