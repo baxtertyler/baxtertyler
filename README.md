@@ -1,6 +1,8 @@
 # Tyler Baxter 🏄‍♂️🏌️‍♂️
 
-I'm a computer science student attending the California Polytechnic State University at San Luis Obpispo.
+I'm a computer science student attending the California Polytechnic State University at San Luis Obpispo. I hold the belief that technological development can be benefical for everyone and desire to persue a career that can have a lasting impact on the world
+
+
 
 <!--
 **baxtertyler/baxtertyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
