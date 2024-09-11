@@ -11,8 +11,8 @@ I'm a computer science student attending the California Polytechnic State Univer
 
 
 ## What I have been up to lately
-- Software Engineer Intern for GreenSight Tech, assisting in building the quote pricing tool that allows users to get the ideal price to sell a used electronic device.
-- Student assitant for the Cal Poly SLO Computer Science department. Responsible for leading the cs lab periods, answering questions, debugging programs, grading student projects.
+- Full stack software engineer intern for GreenSight Tech responsible for assisting in the creation of the quote pricing tool, giving users the ability to quickly and effectively price used electronic devices.
+- Student assistant for the Cal Poly Computer Science Department and mentor to 100+ students. Responsible for managing lab periods, guiding student learning and progress, and grading assignments.
 
 ## Technology Toolkit
 
