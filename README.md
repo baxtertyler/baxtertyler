@@ -26,7 +26,7 @@ I'm a computer science student attending the California Polytechnic State Univer
 ![Static Badge](https://img.shields.io/badge/Racket-purple?style=for-the-badge&logo=racket&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Node%20JS-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nextjs-red?style=for-the-badge&logo=next.js&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/next%20js-red?style=for-the-badge&logo=next.js&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Express%20JS-darkgreen?style=for-the-badge&logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Mongo%20DB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/cloudflare-red?style=for-the-badge&logo=cloudflare&logoColor=white&color=black)
