@@ -11,7 +11,7 @@ I'm a computer science student attending the California Polytechnic State Univer
 
 
 ## What I have been up to lately
-- Extensive web development for Food Drops, creating the UI/UX design and assiting on building up the backend. Implementation of encryption mechanisms, real time ordering, and secure accounts.
+- Software Engineer Intern for GreenSight Tech, assisting in building the quote pricing tool that allows users to get the ideal price to sell a used electronic device.
 - Student assitant for the Cal Poly SLO Computer Science department. Responsible for leading the cs lab periods, answering questions, debugging programs, grading student projects.
 
 ## Technology Toolkit
