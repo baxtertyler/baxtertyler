@@ -12,6 +12,7 @@ I'm a computer science student attending the California Polytechnic State Univer
 
 ## What I have been up to lately
 - Full stack software engineer intern for GreenSight Tech responsible for assisting in the creation of the quote pricing tool, giving users the ability to quickly and effectively price used electronic devices.
+- Backend Engineer team member for Ongawa responsible for setting up AWS Congito and creating a reddit-like community page, allowing users and artists to easily communicate with each other.
 - Student assistant for the Cal Poly Computer Science Department and mentor to 100+ students. Responsible for managing lab periods, guiding student learning and progress, and grading assignments.
 
 ## Technology Toolkit
