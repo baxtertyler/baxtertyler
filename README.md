@@ -2,7 +2,7 @@
 
 **`Software Engineer`** 
 
-I'm a computer science student attending the California Polytechnic State University at San Luis Obispo. I hold the belief that technological development can be beneficial for everyone and desire to pursue a career that can have a lasting impact on the world. My abilities revolve around full-stack software engineering and interpersonal communication / relationships, skills I leverage in my professional life. Outside of the tech world I enjoy golfing and surfing.
+I'm a California Polytechnic State University, San Luis Obispo alumni with a bachelor's in computer science. My abilities revolve around full-stack software engineering and interpersonal communication / relationships, skills I leverage in my professional life. Outside of the tech world I enjoy golfing and surfing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tylerbaxter/) 
 [![Static Badge](https://img.shields.io/badge/Portfolio-%23ff0000?style=for-the-badge&logo=internetcomputer&logoColor=white&link=https%3A%2F%2Fbaxtertyler.github.io%2F)](https://baxtertyler.github.io/)
